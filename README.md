@@ -11,3 +11,4 @@ Hi, this is my portfolio of some data analysis projects I've worked on in the pa
 
 
 ## Project 2
+### Data Gathering from WeRateDogs account via Twitter API
